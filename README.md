@@ -11,7 +11,7 @@ url:https://6083a7e77659ba926f105ee2--wontube.netlify.app
 
 -react-router-dom
 
--fortawesome
+-fortawesome/fontawesome-free(아이콘)
 
 -youtube 오픈 api 를이용 (search 기능과 most popular기능)
 
